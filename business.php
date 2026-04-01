@@ -5,9 +5,9 @@
             background: #cfbcbc;
 }
            .container {
-            height: 200px;
-            width: 400px;
-            padding-left:200px;
+            height: 1000px;
+            width: 1000px;
+            padding-left:1000px;
             }
             </style>
     </head>
